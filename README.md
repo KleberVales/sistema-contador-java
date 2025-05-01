@@ -15,4 +15,4 @@ Um projeto Java que demonstra:
 ## ▶ Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sistema-contador-java.git
+   git clone https://github.com/klebervales/sistema-contador-java.git
